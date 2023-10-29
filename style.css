@@ -1,0 +1,24 @@
+body { 
+    text-align: center;
+    background-color: black;
+    color: red;
+    font-family: 'Kalam', cursive;
+    }
+
+    #h3 {
+     text-shadow: 3px 3px 3px blueviolet;
+    }
+
+    .copy_right_footer{
+      position: fixed;
+      background-color: white;
+      bottom:0;
+      width:100%;
+      width: fit-content;
+    }
+
+    canvas{
+      border:5px solid white;
+      border-radius: 20px;
+      box-shadow: 5px 5px 5px grey;
+    }
